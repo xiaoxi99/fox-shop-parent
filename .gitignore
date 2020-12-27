@@ -1,0 +1,6 @@
+# Project exclude paths
+/fox-shop-admin/target/
+/fox-shop-commons/target/
+/fox-shop-model/target/
+/fox-shop-qms/target/
+/fox-shop-ums/target/
